@@ -31,7 +31,7 @@ docker run -p 8000:3000 neuro:latest
 ```
 Now you can access the application in your browser by visiting http://127.0.0.1:8000.
 
-You can also add -d parameter to run the docker container in background and use the docker image id to spesify the image. To get the ID of image run `docker images` command.
+You can also add -d parameter to run the docker container in background and use the docker image id to specify the image. To get the ID of image run `docker images` command.
 
 ```
 docker images
